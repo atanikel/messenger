@@ -5,4 +5,4 @@ hi i made this in 3rd grade, added it to github a couple years ago. It's an old 
 
 ## Description
 
-simple texting thing. I mean <b>really simple.</b>
+simple texting thing. I mean <b><b>really simple.</b></b>
